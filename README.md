@@ -4,10 +4,8 @@ Natural gas account for 1/4 of the global demand and roughly 1/3 of the US energ
 
 Therefore, this project aims to predict the demand of Natural Gas in the US by combining a wide range of datasets including the Hery Hub Natural Gas spot price, US weather averages (daily), US Natural Gas storage (weekly) and production (monthly), US population (Annually), and Import & Exports (Monthly) for the last 10 years.
 
-![techstack](image/USEnergyConsumption_bySource_EIA.png)
-
 <img src="image/USEnergyConsumption_bySource_EIA.png"
-    style="float: center; margin-right: 10px;" />
+    style="float: center; margin-center: 10px;" />
 
 # Data Sources
 - For the Hery Hub Natural Gas spot price, Import & Exports (Monthly), and storage data (weekly), I used csv data from the US Energy Information Administration website. https://www.eia.gov/naturalgas/
