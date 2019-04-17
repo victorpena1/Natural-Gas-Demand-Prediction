@@ -37,3 +37,11 @@ From basic exploratory analysis, I found that:
 <img src="image/EDA1.png"
     style="float: left; margin-right: 10px;" />
     
+Additionally, there is not a clear linear relation between consumption and any of the other features. 
+
+Through this analysis, I determined that using traditional time-series and tree-based models provided the best solution to reproduce an explainable and quick model.
+
+<img src="image/EDA2.png"
+    style="float: left; margin-right: 10px;" />
+
+    
