@@ -15,4 +15,4 @@ Therefore, this project aims to predict the demand of Natural Gas in the US by c
 # Methodology
 
 <img src="image/method.png"
-    style="float: left; margin-right: 10px;" />
+    style="float: center; margin-right: 10px;" />
