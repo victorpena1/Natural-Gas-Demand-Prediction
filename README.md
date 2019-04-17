@@ -11,6 +11,8 @@ Therefore, this project aims to predict the demand of Natural Gas in the US by c
 - For the Hery Hub Natural Gas spot price, Import & Exports (Monthly), and storage data (weekly), I used csv data from the US Energy Information Administration website. https://www.eia.gov/naturalgas/
 - For the US weather averages (daily), I used the Climate Engine database. https://app.climateengine.org/
 - For the US population (annually), I used the bureau of the census database. https://www.census.gov/
+    
+# Methodology
 
-<img src="image/databases.png"
+<img src="image/method  .png"
     style="float: left; margin-right: 10px;" />
