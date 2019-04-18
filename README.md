@@ -89,3 +89,6 @@ Overall, the 3 models are able to predict fairly well. The LSTM model performs t
 - Develop a database with current data.
 - Automate data gathering for future data and update models weekly.
 - Create a dashboard with relevant information for decision makers.
+
+# Acknowledgements
+Thanks to my instructors, peers, and members of the Galvanize community for the support and brainstorming for the duration of this project.
